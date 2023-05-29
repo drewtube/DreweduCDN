@@ -1,2 +1,2 @@
 # DreweduCDN
-Drewedu CDN
+Drewedu CDN - Hosting files for Drewedu (such as config profiles!)
